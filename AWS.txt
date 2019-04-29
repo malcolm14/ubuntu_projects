@@ -1,0 +1,49 @@
+--volume that is created in a particular avail zone can be attached to an instance in the same Availab zone
+--for efs instance creation make new security group allow HTTP
+
+change to sudo su
+yum update -y
+yum install httpd -y
+service httpd start
+cd /var/www/html/index.html
+
+
+
+using NFS client command copy the command and past on the instance and remove efs and give path as below
+
+//var/www/html     
+
+
+
+touch index.html in html folder
+
+cd ..
+ mkdir ethans 
+cd ethans
+
+//var/www/ethans
+
+touch file1.txt
+
+
+make a folder in home/efs
+
+
+yum install mysql -y
+mysql -h hostname -P 3306 -u mydbinstance -p
+
+ip:/connect.php
+
+mysql -h mydbinstance.clgg1wyhv3el.us-east-2.rds.amazonaws.com -P 3306 -u mydbinstance -p
+
+
+myrdshftins
+--create the redshift database 
+--go to advance settings
+
+recursive approach in python
+
+
+
+
+
